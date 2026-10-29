@@ -1,0 +1,12 @@
+{:meta/version 1
+ ;; Written by Reflog. Logseq reads this file too; Reflog only reads
+ ;; the keys below and never rewrites it.
+ :preferred-format "Markdown"
+ :preferred-workflow :now
+ :hidden []
+ :journal/page-title-format "MMM do, yyyy"
+ :journal/file-name-format "yyyy_MM_dd"
+ :export/bullet-indentation :tab
+ :default-templates {:journals ""}
+ :favorites []
+ :file/name-format :triple-lowbar}

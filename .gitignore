@@ -1,0 +1,4 @@
+# Logseq's local backups and trash
+logseq/bak/
+logseq/.recycle/
+.cache/
