@@ -1,0 +1,4 @@
+schema_version: 1
+default_branch: main
+journal_path: journal/{yyyy}/{MM}/{yyyy}-{MM}-{dd}.md
+attachments_path: attachments/
