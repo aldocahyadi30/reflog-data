@@ -1,3 +1,3 @@
 type:: repo
 work:: [[byteme]]
-link:: https://tigabesamajaya.top
+link:: https://tigabersamajaya.top
