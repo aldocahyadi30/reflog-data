@@ -1,2 +1,2 @@
-type:: module
+type:: project
 repo:: avian/avian-hr

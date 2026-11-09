@@ -1,2 +1,2 @@
 type:: repo
-work:: [[byteme]]
+area:: [[byteme]]

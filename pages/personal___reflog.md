@@ -1,4 +1,4 @@
 type:: repo
-work:: personal
+area:: [[personal]]
 
 -
