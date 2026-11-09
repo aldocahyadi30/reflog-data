@@ -1,1 +1,1 @@
-type:: work
+type:: area
